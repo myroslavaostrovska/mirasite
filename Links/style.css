@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Matemasie", sans-serif;;
+    max-width: 350px;
+}
+
+div {
+    background-color: #EAEEF1;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.button a {
+    background-color: white;
+    
+}
